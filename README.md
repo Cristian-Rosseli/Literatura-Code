@@ -1,4 +1,6 @@
 Projeto de Literatura
+_____________________________________________________________________
+
 Este aplicativo Java oferece uma interface de menu para buscar informações sobre livros, assim como os salva em um banco de dados para que seja possível buscar os dados dos autores e do livro de forma local sem necessitar de fazer chamadas a todo momento para a api. Os usuários podem buscar por livros utilizando um título específico e obter detalhes dos livros encontrados usando a API de Livros. O aplicativo utiliza a biblioteca Jackson para analisar a resposta JSON da API de Livros.
 
 Funcionalidades
